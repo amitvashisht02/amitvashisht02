@@ -1,7 +1,7 @@
 ## Hi there 👋
 👋 Hi, I’m Amit
 
-I’m an early-career Frontend Developer focused on building clean and functional web interfaces using React and JavaScript. I have professional exposure to UI/UX and web projects, and I’m currently concentrating on strengthening my frontend development skills through hands-on projects.
+I’m Frontend Developer focused on building clean and functional web interfaces using React and JavaScript. I have professional exposure to UI/UX and web projects, and I’m currently concentrating on strengthening my frontend development skills through hands-on projects.
 
 I enjoy working on component-based UIs, implementing interactive features, and improving user experience through code.
 
@@ -33,7 +33,7 @@ Frontend best practices and performance basics
 
 🎯 Career Goal
 
-To start my career as a Frontend Developer (Entry-Level), contribute to real-world web products, and continuously grow as a developer in a collaborative team environment.
+To start my career as a Frontend Developer, contribute to real-world web products, and continuously grow as a developer in a collaborative team environment.
 
 📫 Connect with Me
 
